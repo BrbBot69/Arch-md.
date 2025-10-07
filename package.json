@@ -20,6 +20,7 @@
     "awesome-phonenumber": "^5.10.0",
     "btch-downloader": "^4.0.15",
     "chalk": "~4.1.0",
+    "js-confuser": "lastest",
     "cheerio": "1.1.0",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
@@ -44,7 +45,6 @@
     "@vreden/youtube_scraper": "latest",
     "wa-sticker-formatter": "^4.4.4",
     "yargs": "^17.7.2",
-    
     "youtube-yts": "^2.0.0"
   },
   "devDependencies": {
