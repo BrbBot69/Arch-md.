@@ -1,0 +1,24 @@
+{
+    "bot-name": "Arch-Md",
+    "description": "A Multi Functional WhatsApp Bot Made By @GoodnessObilom",
+    "logo": "https://files.catbox.moe/ab9nv3.jpeg",
+    "keywords": ["bot"],
+    "documentation-link": "ch-md-site.vercel.app",
+    "owner-verification": "goodnessobilom@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with either Arch_, Arch~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": false,
+      "value": "234xxxxx"
+
+    }  
+  }
+}
