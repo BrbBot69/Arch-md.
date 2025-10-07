@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "put your bot owner name here",
-      "value": "Ednut",
+      "value": "GoodnessTech",
       "required": false
     },
     "TIME_ZONE": {
@@ -48,12 +48,12 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + \",\").",
-      "value": "2347036214381",
+      "value": "2349126793637",
       "required": false
     },
     "SUDO": {
       "description": "The phone numbers of the users who you want to be sub admin for the bot for multiple number , as split (should be in international format without + \",\").",
-      "value": "2347036214381",
+      "value": "2349126793637",
       "required": false
     },
     "PACK_NAME": {
