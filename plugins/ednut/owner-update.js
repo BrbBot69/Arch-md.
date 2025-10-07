@@ -7,7 +7,7 @@ module.exports = [
     category: "Other",
     owner: true,
     async execute(m) {
-      const GIT_REPO = "GoodnessObilom/Arch-md";
+      const GIT_REPO = "TristanCage/Arch-md";
       const HEROKU_API_KEY = process.env.HEROKU_API_KEY;
       const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME;
 

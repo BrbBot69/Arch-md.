@@ -73,6 +73,7 @@ module.exports = {
 
     let archmenu = `┏《 ${global.botname} 》━━━
 ♞ User: ${userName}
+♞ Dev: ɢᴏᴏᴅɴᴇꜱꜱ ᴛᴇᴄʜ 
 ♞ Ping: ${Date.now() - m.messageTimestamp * 1000} Ms
 ♞ Time: ${currentTime}
 ♞ Date: ${welDate}

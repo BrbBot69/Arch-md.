@@ -19,7 +19,7 @@ module.exports = [
   gcban: true,
   execute: async (m, { axios, reply4 }) => {
     try {
-      const response = await axios.get(`https://api.github.com/repos/Ednut001/Arch-Md`);
+      const response = await axios.get(`https://api.github.com/repos/TristanCage/Arch-md`);
       if (response.status === 200) {
         const repoData = response.data;
         const formattedInfo = `*Repository Name:* ${repoData.name}
